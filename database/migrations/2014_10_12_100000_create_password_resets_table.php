@@ -32,9 +32,6 @@ class CreatePasswordResetsTable extends Migration
     }
 
 
-    public function getIndex()
-    {
 
-    }
 
 }
